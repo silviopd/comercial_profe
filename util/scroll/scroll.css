@@ -1,0 +1,11 @@
+/* 
+    Created on : 07/10/2015, 05:54:33 PM
+    Author     : hmera
+*/
+
+#boxscroll {
+    padding: 0px;
+    border: 0px solid #000;
+    overflow: auto;
+    margin-bottom:0px;
+}

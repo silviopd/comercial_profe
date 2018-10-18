@@ -1,0 +1,10 @@
+.box-footer {
+  background: transparent;
+  color: #909592;
+  text-align:justify;
+  font-size:9pt;
+  border-top: 1px solid #a1b0a7;
+  margin-right: 320px;
+  margin-left: 320px;
+  padding: 15px;
+}

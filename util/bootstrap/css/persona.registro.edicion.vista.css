@@ -1,0 +1,17 @@
+.content, .content-header{
+	width: 100%;
+	margin: auto;
+}
+#btnbuscar, #btnlimpiar, #btnlistar{
+	width: 100%;
+}
+#div_img_trabajador, #div_hojavida_trabajador{
+	display: none;
+}
+#div_img_trabajador p img, #div_hojavida_trabajador p a img{
+	width: 20%;
+}
+
+#colbtn p {
+	margin-top: 13px;
+}
